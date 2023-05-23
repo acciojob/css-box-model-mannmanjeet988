@@ -5,14 +5,14 @@
 	width : 230px;
 	margin : 20px;
 	border :  15px solid blue;	
-	text-align : center;
 }
 
-.box p{
+/* .box p{
 text-align : center;	
-}
+} */
 
 .outerBox{
+	background : rgb(173, 216, 230);
 	border :  1px solid black;
 	width: 300px;
 }
