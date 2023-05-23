@@ -3,7 +3,8 @@
 .box {
 	background : lightblue;
 	width : 300px;
-	padding : 50 px;
-	border :  15 px solid blue;
-	margin : 20 px;
+	margin : 20px;
+	padding : 50px;
+	border :  15px solid blue;
+	
 }
