@@ -13,6 +13,6 @@ text-align : center;
 
 .outerBox{
 	background : rgb(173, 216, 230);
-	border :  1px solid black;
+	border : 15px solid rgb(0, 0, 255);
 	width: 300px;
 }
