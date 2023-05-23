@@ -2,14 +2,15 @@
 /* Your CSS Code here. */
 .box {
 	background : lightblue;
-	width : 300px;
+	width : 230px;
 	margin : 20px;
 	padding : 50px;
 	border :  15px solid blue;	
+	text-align : center;
 	
 }
 
 .outerBox{
 	border :  1px solid black;
-	width: 470px;
+	width: 300px;
 }
