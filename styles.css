@@ -4,14 +4,15 @@
 	background : lightblue;
 	width : 230px;
 	margin : 20px;
-	padding : 50px;
 	border :  15px solid blue;	
 	text-align : center;
-	
+}
+
+.box p{
+text-align : center;	
 }
 
 .outerBox{
-	background-color : rgb(173, 216, 230);
 	border :  1px solid black;
 	width: 300px;
 }
