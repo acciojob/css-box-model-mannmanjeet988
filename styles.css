@@ -5,6 +5,11 @@
 	width : 300px;
 	margin : 20px;
 	padding : 50px;
-	border :  15px solid blue;
+	border :  15px solid blue;	
 	
+}
+
+.outerBox{
+	border :  1px solid black;
+	width: 470px;
 }
